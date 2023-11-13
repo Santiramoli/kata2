@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="709b8083-7da9-48be-b090-2b9878730c44" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kata2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/software/ulpgc/kata2/Food.java" afterDir="false" />
+    <list default="true" id="709b8083-7da9-48be-b090-2b9878730c44" name="Changes" comment="Food class created.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/software/ulpgc/kata2/Food.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/software/ulpgc/kata2/Food.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,9 +52,20 @@
       <option name="presentableId" value="Default" />
       <updated>1699829500790</updated>
     </task>
+    <task id="LOCAL-00001" summary="Food class created.">
+      <option name="closed" value="true" />
+      <created>1699834298681</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699834298681</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Food class created." />
+    <option name="LAST_COMMIT_MESSAGE" value="Food class created." />
   </component>
 </project>
